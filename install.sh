@@ -1,6 +1,8 @@
 # Be fancy
 source ~/.local/share/omakub/ascii.sh
 
+ln -s ~/Pobrane ~/Downloads
+
 # Needed for all installers
 sudo apt update -y
 sudo apt install -y curl git jq
